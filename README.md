@@ -1,7 +1,6 @@
 ## 🚀 소개 - 🔥 
 
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
 - 🌱 현재 공부 중
     - ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white) 
