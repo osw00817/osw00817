@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
 ## 🚀 소개 - 🔥 
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
