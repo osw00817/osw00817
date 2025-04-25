@@ -1,5 +1,5 @@
 
-<img src="./zzz.jpeg" width="80%">
+<img src="./zz.jpg" width="80%">
 
 <!--
 ## 🚀 소개 - 🔥 
