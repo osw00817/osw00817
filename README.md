@@ -1,6 +1,8 @@
-## 🚀 소개 - 🔥 
 
-#### ROKA - 2025.02.17 ~
+<img src="./zzz.jpeg" width="80%">
+
+<!--
+## 🚀 소개 - 🔥 
 
 #### 공부하고있거나 관심있는 분야
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) 
@@ -12,7 +14,7 @@
 ## 📊 GitHub 통계 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw00817&layout=compact&theme=tokyonight)
 
-<!--
+
 **osw00817/osw00817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
